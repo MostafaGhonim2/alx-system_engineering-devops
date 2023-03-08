@@ -1,1 +1,1 @@
-# My first shell project
+# my first project shell
